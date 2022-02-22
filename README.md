@@ -9,14 +9,14 @@
 
 🏕️ Outside the world of tech, I enjoy developing new skills. I am interested in personal development and learning languages. 
 
+✈️ I love **traveling** too. I have been in 6 countries so far.
+
 ❓ Ask me about **Serverless, AWS, ReactJS**
 
 
 
 ## 🚀 How to Reach Me
-📫  **dev.canberkkaya@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canberk-kaya/) [![Twitter](https://img.shields.io/badge/@cnbrk_kaya-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cnbrk_kaya)
+[![LinkedIn](https://img.shields.io/badge/@canberkkaya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canberk-kaya/) [![Twitter](https://img.shields.io/badge/@cnbrk_kaya-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cnbrk_kaya)  [![Mail Badge](https://img.shields.io/badge/dev.canberkkaya-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:dev.canberkkaya@gmail.com)   📫  **dev.canberkkaya@gmail.com**
 
 ##  🏆 Achievements
 
