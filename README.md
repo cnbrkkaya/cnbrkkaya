@@ -9,8 +9,6 @@
 
 🏕️ Outside the world of tech, I enjoy developing new skills. I am interested in personal development and learning languages. 
 
-✈️ I love **traveling** too. I have been in 6 countries so far.
-
 ❓ Ask me about **Serverless, AWS, ReactJS**
 
 
